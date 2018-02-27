@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[Tbobm's overlay]]></name>
+    <description lang="en"><![CDATA[Tbobm's overlay]]></description>
+    <homepage>http://github.com/tbobm/bportage</homepage>
+    <owner type="person">
+      <email>massar_t@etna-alternance.net</email>
+      <name><![CDATA[Theo Massard]]></name>
+    </owner>
+    <source type="git">git://github.com/tbobm/bportage.git</source>
+  </repo>
+</repositories>
+
