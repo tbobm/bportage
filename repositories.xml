@@ -2,7 +2,7 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
-    <name><![CDATA[Tbobm's overlay]]></name>
+    <name><![CDATA[tbobm-overlay]]></name>
     <description lang="en"><![CDATA[Tbobm's overlay]]></description>
     <homepage>http://github.com/tbobm/bportage</homepage>
     <owner type="person">
